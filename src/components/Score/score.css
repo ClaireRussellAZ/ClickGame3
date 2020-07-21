@@ -1,0 +1,120 @@
+.score {
+  background-color: rgb(20, 55, 255);
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Open Sans Condensed";
+}
+
+.header {
+  font-family: "Merienda";
+  font-weight: bold;
+}
+
+.root {
+  background-image: url("/assets/images/background.jpg")!important;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 5px;
+
+}
+
+h4 {
+  font-style: bold;
+  text-align: center;
+  color: #98FB98;
+  font-weight: bolder;
+  font-size: 50px;
+  font-family: "Open Sans Condensed" !important;
+}
+
+h6 {
+  font-style: bold;
+  display: block;
+  cursor: default;
+  font-family: "Merienda";
+  color: rgb(215, 218, 250);
+}
+
+h4:hover {
+  color: #4778d1;
+  background-color: #1f0309;
+  display: center;
+}
+
+h6:hover {
+  color: #eeeeee;
+  background-color: #e52b50;
+  display: inline;
+}
+
+#tagline {
+    text-align: center !important;
+    padding-bottom: 10px !important;
+    font-size: xx-large !important;
+    text-emphasis: bold !important;
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+}
+
+.col-left {
+  font-family: "Open Sans Condensed";
+  text-align: left;
+  padding-left: 10px;
+}
+
+.col-right {
+  font-family: "Open Sans Condensed";
+  text-align: right;
+  padding-top: 10px;
+  padding-right: inherit;
+}
+
+.alert-danger {
+  font-family: "Open Sans Condensed";
+  text-transform: uppercase;
+  color: #f5f5dc;
+  background-color: rgba(255, 0, 0, 0.658) !important;
+  cursor: default;
+}
+
+.alert-danger:hover {
+  color: rgba(255, 0, 0, 0.658);
+  background-color: #000 !important;
+}
+
+.alert-success {
+  font-family: "Merienda";
+  text-transform: uppercase;
+  color: #f5f5dc;
+  background-color: #03c03c !important;
+  cursor: default;
+}
+
+.alert-success:hover {
+  color: #707027;
+  background-color: #008000 !important;
+}
+
+
+.footer {
+  font-family: "Merienda";
+  background-color: #0000FF;
+  color: #a0a01b;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 25px;
+}
+.footer:hover {
+  background-color: #f5f5dc;
+  color: rgb(88, 5, 22);
+}
+.footer a {
+  color: #b1b134;
+}
+.footer a:hover {
+  color:rgb(20, 57, 220);
+}

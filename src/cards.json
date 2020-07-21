@@ -1,0 +1,65 @@
+
+
+[
+    {
+        "id":1,
+        "image": "/assets/images/paintcat.jpg",
+        "variety":"Wild Cat"
+    },
+    {
+        "id":2,
+        "image": "/assets/images/hamcute.jpg",
+        "variety": "Hamster"
+    },
+    {
+        "id":3,
+        "image": "/assets/images/goldfish.jpg",
+        "variety": "Gold Fish"
+    },
+    {
+        "id":4,
+        "image": "/assets/images/maccaw.jpg",
+        "variety": "Maccaw"
+    },
+    {
+        "id":5,
+        "image": "/assets/images/gshep.jpg",
+        "variety": "German Shepard"
+    },
+    {
+        "id":6,
+        "image": "/assets/images/pup1.jpg",
+        "variety": "Cute Pup"
+    },
+    {
+        "id":7,
+        "image": "/assets/images/hoosk1.jpg",
+        "variety": "Husky"
+    },
+    {
+        "id":8,
+        "image": "/assets/images/fatcat.jpg",
+        "variety":"Fat Cat"
+    },
+    {
+        "id":9,
+        "image": "/assets/images/leopard.jpg",
+        "variety":"Leopard"
+    },
+    {
+        "id":10,
+        "image": "/assets/images/Qhorse.jpg",
+        "variety":"Quarter Horse"
+    },
+    {
+        "id":11,
+        "image": "/assets/images/tiger.jpg",
+        "variety": "Tiger"
+    },
+    {
+        "id":12,
+        "image": "/assets/images/sheepy.jpg",
+        "variety":"Sheep"
+    }
+]
+

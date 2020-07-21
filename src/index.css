@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: fantasy;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("public/assets/images/background.jpg");
+}
+
+code {
+  font-family: Georgia;
+}
